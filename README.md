@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Om-Takbhate
-- 👀 I’m interested in Web Development , specially Backend 💖
+- 👀 I’m interested in Web Development 💖
 - 🌍 This is link to my Portfolio website - https://om-takbhate.github.io/Om-Portfolio/
 - 🌱 I’m currently learning DSA and MERN Stack
 - 💞️ I’m looking to collaborate in Open Source Contributions and Project Ideas
